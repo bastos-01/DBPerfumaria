@@ -1,0 +1,31 @@
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe.config
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\bin\Debug\Perfumaria.pdb
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Properties.Resources.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\obj\Debug\Perfumaria.exe
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\obj\Debug\Perfumaria.pdb
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Aulas Práticas\Projeto\Perfumaria\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Form1.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe.config
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\bin\Debug\Perfumaria.pdb
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Properties.Resources.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.exe
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.pdb
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Main.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Cliente.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Projeto\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Funcionario.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Cliente.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Funcionario.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Main.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.Properties.Resources.resources
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.exe
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\obj\Debug\Perfumaria.pdb
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe.config
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\bin\Debug\Perfumaria.exe
+\\Mac\Home\Documents\Universidade\Engenharia Informática\2º Ano\2º Semestre\Base de Dados\bd\Entrega\Interface\Perfumaria\Perfumaria\bin\Debug\Perfumaria.pdb
